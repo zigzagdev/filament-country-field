@@ -14,6 +14,7 @@ use Filament\Tables\TablesServiceProvider;
 use Filament\Widgets\WidgetsServiceProvider;
 use Illuminate\Database\Eloquent\Factories\Factory;
 use Illuminate\Support\Facades\App;
+use Illuminate\Testing\TestResponse;
 use Livewire\LivewireServiceProvider;
 use Orchestra\Testbench\TestCase as Orchestra;
 use Parfaitementweb\FilamentCountryField\FilamentCountryFieldServiceProvider;
@@ -24,7 +25,7 @@ class TestCase extends Orchestra
     /**
      * The latest test response (used by Testbench).
      *
-     * @var \Illuminate\Testing\TestResponse|null
+     * @var TestResponse|null
      */
     protected static $latestResponse;
 
