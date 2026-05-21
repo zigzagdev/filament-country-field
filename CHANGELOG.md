@@ -2,6 +2,23 @@
 
 All notable changes to `filament-country-field` will be documented in this file.
 
+## 2.5.6 - 2026-05-21
+
+### What's Changed
+
+* Bump actions/checkout from 5 to 6 by @dependabot[bot] in https://github.com/parfaitementweb/filament-country-field/pull/39
+* Bump stefanzweifel/git-auto-commit-action from 6 to 7 by @dependabot[bot] in https://github.com/parfaitementweb/filament-country-field/pull/38
+* Bump dependabot/fetch-metadata from 2.5.0 to 3.0.0 by @dependabot[bot] in https://github.com/parfaitementweb/filament-country-field/pull/45
+* Bump ramsey/composer-install from 3 to 4 by @dependabot[bot] in https://github.com/parfaitementweb/filament-country-field/pull/44
+* Bump dependabot/fetch-metadata from 3.0.0 to 3.1.0 by @dependabot[bot] in https://github.com/parfaitementweb/filament-country-field/pull/47
+* Add Laravel 13 Support by @RibesAlexandre in https://github.com/parfaitementweb/filament-country-field/pull/46
+
+### New Contributors
+
+* @RibesAlexandre made their first contribution in https://github.com/parfaitementweb/filament-country-field/pull/46
+
+**Full Changelog**: https://github.com/parfaitementweb/filament-country-field/compare/2.5.5...2.5.6
+
 ## 2.5.5 - 2026-01-26
 
 Filament V5 Support
